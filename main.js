@@ -41,7 +41,7 @@ function setup()
             }
             else{
                 console.log("Song Name: Spectre");
-                document.getElementById("song_id").innerHTML = "Song Name: Spectre";
+                document.getElementById("songname").innerHTML = "Song Name: Spectre";
             }
         }
     }
